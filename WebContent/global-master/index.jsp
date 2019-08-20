@@ -70,7 +70,7 @@
               <div class="intro--options"
               	   style="font-family:BMHANNAAir_ttf;">
                 <a href="#0">
-                  <h3 >영화 &amp; 공연/전시</h3>
+                  <h3 >영화   &amp; 공연/전시</h3>
                   <p>당신이 원하는 문화생활을 <br>원하는 시간에 즐길 수 있게</p>
                 </a>
                 <a href="#0">
