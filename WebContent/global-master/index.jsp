@@ -11,6 +11,11 @@
   <meta name="keywords" content="global, template, html, sass, jquery">
   <meta name="author" content="Bucky Maler">
   <link rel="stylesheet" href="assets/css/main.css">
+  
+  <style type="text/css">
+  	
+  </style>
+  
 </head>
 <body>
 
@@ -32,7 +37,7 @@
             <img src="assets/img/logo.png" alt="Global">
             <p>WIFY</p>
           </a>
-          <button class="header--cta cta">Hire Us</button>
+          <button class="header--cta cta">Join Us</button>
           <div class="header--nav-toggle">
             <!-- <span></span> -->
             <img alt="" src="assets/img/arrow_white.png" style="width: 50px; height: 50px;">
@@ -52,7 +57,7 @@
             <div class="intro">
               <div class="intro--banner">
                 <h1>We find out<br>Information<br>For You</h1>
-                <button class="cta">Hire Us
+                <button class="cta">Join Us
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
                   <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
                     <path d="M870,1167c-34-17-55-57-46-90c3-15,81-100,194-211l187-185l-565-1c-431,0-571-3-590-13c-55-28-64-94-18-137c21-20,33-20,597-20h575l-192-193C800,103,794,94,849,39c20-20,39-29,61-29c28,0,63,30,298,262c147,144,272,271,279,282c30,51,23,60-219,304C947,1180,926,1196,870,1167z"/>
@@ -62,18 +67,19 @@
                 </button>
                 <img src="assets/img/introduction-visual.png" alt="Welcome">
               </div>
-              <div class="intro--options">
+              <div class="intro--options"
+              	   style="font-family:BMHANNAAir_ttf;">
                 <a href="#0">
-                  <h3>Metiew &amp; Smith</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                  <h3 >영화 &amp; 공연/전시</h3>
+                  <p>당신이 원하는 문화생활을 <br>원하는 시간에 즐길 수 있게</p>
                 </a>
                 <a href="#0">
-                  <h3>Fantasy interactive</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                  <h3>항공권</h3>
+                  <p>당신이 가고 싶은 여행지를 <br>원하는 가격에 갈 수 있게</p>
                 </a>
                 <a href="#0">
-                  <h3>Paul &amp; shark</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                  <h3>쇼핑</h3>
+                  <p>당신이 원하는 물건을 <br>원하는 가격에 살 수 있게</p>
                 </a>
               </div>
             </div>
