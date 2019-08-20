@@ -94,7 +94,7 @@
                       <div class="slider--item-image">
                         <img src="assets/img/work-victory.jpg" alt="Victory">
                       </div>
-                      <p class="slider--item-title">Victory</p>
+                      <p class="slider--item-title">영화   &amp; 공연/전시</p>
                       <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
                     </a>
                   </li>
@@ -103,7 +103,7 @@
                       <div class="slider--item-image">
                         <img src="assets/img/work-metiew-smith.jpg" alt="Metiew and Smith">
                       </div>
-                      <p class="slider--item-title">Metiew &amp; Smith</p>
+                      <p class="slider--item-title">항공권</p>
                       <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
                     </a>
                   </li>
@@ -112,7 +112,7 @@
                       <div class="slider--item-image">
                         <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
                       </div>
-                      <p class="slider--item-title">Alex Nowak</p>
+                      <p class="slider--item-title">쇼핑</p>
                       <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
                     </a>
                   </li>
